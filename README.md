@@ -6,4 +6,5 @@ Here are the requirements:
   -> The board should be printed out every time a player makes a move.
 
 You should be able to accept input of the player position and then place a symbol on the board.
+
 Feel free to use Google to help you figure anything out (but don't just Google "Tic Tac Toe in Python" otherwise you won't learn anything!) 
